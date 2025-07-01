@@ -1,0 +1,13 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+
+# Generated outputs
+Data/outputs/
+
+# macOS artifacts
+.DS_Store

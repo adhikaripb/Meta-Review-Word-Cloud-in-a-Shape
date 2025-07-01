@@ -1,0 +1,485 @@
+TY  - JOUR
+AB  - Early seed development events are highly sensitive to increased temperature. This high sensitivity to a short-duration temperature spike reduces seed viability and seed size at maturity. The molecular basis of heat stress sensitivity during early seed development is not known. We selected rice (Oryza sativa), a highly heat-sensitive species, to explore this phenomenon. Here, we elucidate the molecular pathways that contribute to the heat sensitivity of a critical developmental window during which the endosperm transitions from syncytium to the cellularization stage in young seeds. A transcriptomic comparison of seeds exposed to moderate (35 degrees C) and severe (39 degrees C) heat stress with control (28 degrees C) seeds identified a set of putative imprinted genes, which were down-regulated under severe heat stress. Several type I MADS box genes specifically expressed during the syncytial stage were differentially regulated under moderate and severe heat stress. The suppression and overaccumulation of these genes are associated with precocious and delayed cellularization under moderate and severe stress, respectively. We show that modulating the expression of OsMADS87, one of the heat-sensitive, imprinted genes associated with syncytial stage endosperm, regulates rice seed size. Transgenic seeds deficient in OsMADS87 exhibit accelerated endosperm cellularization. These seeds also have lower sensitivity to a moderate heat stress in terms of seed size reduction compared with seeds from wild-type plants and plants overexpressing OsMADS87 Our findings suggest that OsMADS87 and several other genes identified in this study could be potential targets for improving the thermal resilience of rice during reproductive development.
+AD  - Department of Agronomy and Horticulture (C.C., K.B., J.J.F., Z.W., H.W.) and School of Biological Sciences (K.L., C.Z.), University of Nebraska, Lincoln, Nebraska 68583; andKey Laboratory of Crop Genetics and Physiology of Jiangsu Province and Key Laboratory of Plant Functional Genomics of the Ministry of Education, College of Agriculture, Yangzhou University, Yangzhou 225009, China (C.C.).
+Department of Agronomy and Horticulture (C.C., K.B., J.J.F., Z.W., H.W.) and School of Biological Sciences (K.L., C.Z.), University of Nebraska, Lincoln, Nebraska 68583; andKey Laboratory of Crop Genetics and Physiology of Jiangsu Province and Key Laboratory of Plant Functional Genomics of the Ministry of Education, College of Agriculture, Yangzhou University, Yangzhou 225009, China (C.C.) hwalia2@unl.edu.
+AN  - 26936896
+AU  - Chen, C.
+AU  - Begcy, K.
+AU  - Liu, K.
+AU  - Folsom, J. J.
+AU  - Wang, Z.
+AU  - Zhang, C.
+AU  - Walia, H.
+C2  - PMC4854699
+DA  - May
+DB  - Medline
+DO  - 10.1104/pp.15.01992
+DP  - NLM
+ET  - 20160302
+IS  - 1
+KW  - Cell Cycle/physiology
+DNA Transposable Elements
+Endosperm/anatomy & histology/cytology/physiology
+Gene Expression Regulation, Plant
+Genomic Imprinting
+Heat-Shock Response/*physiology
+MADS Domain Proteins/genetics/*metabolism
+Oryza/*physiology
+Plant Cells/physiology
+Plant Proteins/genetics/*metabolism
+Plants, Genetically Modified
+Seeds/anatomy & histology/*physiology
+L1  - internal-pdf://0421101832/Chen-2016.pdf
+N1  - Chen, Chen
+Begcy, Kevin
+Liu, Kan
+Folsom, Jing J
+Wang, Zhen
+Zhang, Chi
+Walia, Harkamal
+eng
+Research Support, U.S. Gov't, Non-P.H.S.
+2016/03/05
+Plant Physiol. 2016 May;171(1):606-22. doi: 10.1104/pp.15.01992. Epub 2016 Mar 2.
+PY  - 2016
+SN  - 1532-2548 (Electronic)
+0032-0889 (Print)
+0032-0889 (Linking)
+SP  - 606-22
+ST  - Heat stress yields a unique MADS box transcription factor in determining seed size and thermal sensitivity
+T2  - Plant Physiol
+TI  - Heat stress yields a unique MADS box transcription factor in determining seed size and thermal sensitivity
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/26936896
+VL  - 171
+ID  - 159
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The MADS-box transcription factors mainly function in floral organ organogenesis and identity specification. Few research on their roles in vegetative growth has been reported. RESULTS: Here we investigated the functions of OsMADS57 in plant vegetative growth in rice (Oryza sativa). Knockdown of OsMADS57 reduced the plant height, internode elongation and panicle exsertion in rice plants. Further study showed that the cell length was remarkably reduced in the uppermost internode in OsMADS57 knockdown plants at maturity. Moreover, OsMADS57 knockdown plants were more sensitive to gibberellic acid (GA(3)), and contained less bioactive GA(3) than wild-type plants, which implied that OsMADS57 is involved in gibberellin (GA) pathway. Expectedly, the transcript levels of OsGA2ox3, encoding GAs deactivated enzyme, were significantly enhanced in OsMADS57 knockdown plants. The level of EUI1 transcripts involved in GA deactivation was also increased in OsMADS57 knockdown plants. More importantly, dual-luciferase reporter assay and electrophoretic mobility shift assay showed that OsMADS57 directly regulates the transcription of OsGA2ox3 as well as EUI1 through binding to the CArG-box motifs in their promoter regions. In addition, OsMADS57 also modulated the expression of multiple genes involved in GA metabolism or GA signaling pathway, indicating the key and complex regulatory role of OsMADS57 in GA pathway in rice. CONCLUSIONS: These results indicated that OsMADS57 acts as an important transcriptional regulator that regulates stem elongation and panicle exsertion in rice via GA-mediated regulatory pathway.
+AD  - Key Laboratory of Biorheological Science and Technology, Ministry of Education, Bioengineering College, Chongqing University, Chongqing, People's Republic of China.
+Key Laboratory of Biorheological Science and Technology, Ministry of Education, Bioengineering College, Chongqing University, Chongqing, People's Republic of China. huangjunli@cqu.edu.cn.
+AN  - 31139953
+AU  - Chu, Y.
+AU  - Xu, N.
+AU  - Wu, Q.
+AU  - Yu, B.
+AU  - Li, X.
+AU  - Chen, R.
+AU  - Huang, J.
+C1  - The authors declare that they have no competing interests.
+C2  - PMC6538746
+DA  - May 28
+DB  - PubMed-not-MEDLINE
+DO  - 10.1186/s12284-019-0298-6
+DP  - NLM
+ET  - 20190528
+IS  - 1
+KW  - GA catabolism
+OsMADS57
+Panicle exsertion
+Plant height
+Rice
+L1  - internal-pdf://2302640232/Chu-2019.pdf
+N1  - Chu, Yanli
+Xu, Ning
+Wu, Qi
+Yu, Bo
+Li, Xingxing
+Chen, Rongrong
+Huang, Junli
+eng
+31771747, 31271685/National Natural Science Foundation of China/
+2019/05/30
+Rice (N Y). 2019 May 28;12(1):38. doi: 10.1186/s12284-019-0298-6.
+PY  - 2019
+SN  - 1939-8425 (Print)
+1939-8433 (Electronic)
+1939-8425 (Linking)
+SP  - 38
+ST  - Rice transcription factor OsMADS57 regulates plant height by modulating gibberellin catabolism
+T2  - Rice (N Y)
+TI  - Rice transcription factor OsMADS57 regulates plant height by modulating gibberellin catabolism
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/31139953
+VL  - 12
+ID  - 985
+ER  - 
+
+TY  - JOUR
+AB  - Genes that control ovule identity were first identified in Petunia. Co-suppression of both FLORAL BINDING PROTEIN 7 (FBP7) and FBP11, two D-lineage genes, resulted in the homeotic transformation of ovules into carpelloid structures. Later in Arabidopsis it was shown that three genes, SHATTERPROOF1 (SHP1), SHP2, and SEEDSTICK (STK), redundantly control ovule identity, because in the stk shp1 shp2 triple mutant ovules lose identity and are transformed into carpel and leaf-like structures. Of these three Arabidopsis genes STK is the only D-lineage gene, and its expression, like FBP7 and FBP11, is restricted to ovules. OsMADS13 is the rice ortholog of STK, FBP7, and FBP11. Its amino acid sequence is similar to the Arabidopsis and Petunia proteins, and its expression is also restricted to ovules. We show that the osmads13 mutant is female sterile and that ovules are converted into carpelloid structures. Furthermore, making carpels inside carpels, the osmads13 flower is indeterminate, showing that OsMADS13 also has a function in floral meristem determinacy. OsMADS21 is most likely to be a paralog of OsMADS13, although its expression is not restricted to ovules. Interestingly, the osmads21 mutant did not show any obvious phenotype. Furthermore, combining the osmads13 and the osmads21 mutants did not result in any additive ovule defect, indicating that osmads21 does not control ovule identity. These results suggest that during evolution the D-lineage gene OsMADS21 has lost its ability to determine ovule identity.
+AD  - Dipartimento di Scienze Biomolecolari e Biotecnologie, Universita degli Studi di Milano, Via Celoria 26, 20133 Milan, Italy.
+AN  - 17877710
+AU  - Dreni, L.
+AU  - Jacchia, S.
+AU  - Fornara, F.
+AU  - Fornari, M.
+AU  - Ouwerkerk, P. B.
+AU  - An, G.
+AU  - Colombo, L.
+AU  - Kater, M. M.
+DA  - Nov
+DB  - Medline
+DO  - 10.1111/j.1365-313X.2007.03272.x
+DP  - NLM
+ET  - 20070917
+IS  - 4
+KW  - Amino Acid Sequence
+Blotting, Northern
+Flowers/*genetics/growth & development
+Gene Expression Regulation, Plant
+In Situ Hybridization
+MADS Domain Proteins/*genetics/physiology
+Molecular Sequence Data
+Oryza/*genetics/growth & development
+Plant Proteins/*genetics/physiology
+Reverse Transcriptase Polymerase Chain Reaction
+Sequence Homology, Amino Acid
+L1  - internal-pdf://0711645630/Ludovico-2007.pdf
+N1  - Dreni, Ludovico
+Jacchia, Sara
+Fornara, Fabio
+Fornari, Monica
+Ouwerkerk, Pieter B F
+An, Gynheung
+Colombo, Lucia
+Kater, Martin M
+eng
+Research Support, Non-U.S. Gov't
+England
+2007/09/20
+Plant J. 2007 Nov;52(4):690-9. doi: 10.1111/j.1365-313X.2007.03272.x. Epub 2007 Sep 17.
+PY  - 2007
+SN  - 0960-7412 (Print)
+0960-7412 (Linking)
+SP  - 690-9
+ST  - The D-lineage MADS-box gene OsMADS13 controls ovule identity in rice
+T2  - Plant J
+TI  - The D-lineage MADS-box gene OsMADS13 controls ovule identity in rice
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/17877710
+VL  - 52
+ID  - 1612
+ER  - 
+
+TY  - JOUR
+AB  - AGL6 is an ancient subfamily of MADS-box genes found in both gymnosperms and angiosperms. Its functions remained elusive despite the fact that the MADS-box genes and the ABC model have been studied for >20 years. Nevertheless, recent discoveries in petunia, rice, and maize support its involvement in the 'E' function of floral development, very similar to the closely related AGL2 (SEPALLATA) subfamily which has been well characterized. The known functions of AGL6 span from ancient conserved roles to new functions acquired in specific plant families. The AGL6 genes are involved in floral meristem regulation, in floral organs, and ovule (integument) and seed development, and have possible roles in both male and female germline and gametophyte development. In grasses, they are also important for the development of the first whorl of the flower, whereas in Arabidopsis they may play additional roles before floral meristem formation. This review covers these recent insights and some other aspects that are not yet fully elucidated, which deserve more studies in the future.
+AD  - Joint International Research Laboratory of Metabolic and Developmental Sciences, Shanghai Jiao Tong University (SJTU)-University of Adelaide Joint Centre for Agriculture and Health, State Key Laboratory of Hybrid Rice, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai 200240, China ludovico.dreni@sjtu.edu.cn.
+Joint International Research Laboratory of Metabolic and Developmental Sciences, Shanghai Jiao Tong University (SJTU)-University of Adelaide Joint Centre for Agriculture and Health, State Key Laboratory of Hybrid Rice, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai 200240, China School of Agriculture, Food, and Wine, University of Adelaide, South Australia 5064, Australia.
+AN  - 26956504
+AU  - Dreni, L.
+AU  - Zhang, D.
+DA  - Mar
+DB  - Medline
+DO  - 10.1093/jxb/erw046
+DP  - NLM
+IS  - 6
+KW  - *Evolution, Molecular
+Flowers/*embryology/*genetics
+*Genes, Plant
+MADS Domain Proteins/*genetics
+Magnoliopsida/genetics
+*Multigene Family
+.
+ABC model
+Agl2
+Agl6
+Arabidopsis
+E function
+MADS-box genes
+floral organ development
+lodicule
+ovule
+palea
+petunia
+rice
+L1  - internal-pdf://3492024968/Dreni-2016.pdf
+internal-pdf://0667702941/Dreni-20161.pdf
+N1  - Dreni, Ludovico
+Zhang, Dabing
+eng
+Research Support, Non-U.S. Gov't
+Review
+England
+2016/03/10
+J Exp Bot. 2016 Mar;67(6):1625-38. doi: 10.1093/jxb/erw046.
+PY  - 2016
+SN  - 1460-2431 (Electronic)
+0022-0957 (Linking)
+SP  - 1625-38
+ST  - Flower development: the evolutionary history and functions of the AGL6 subfamily MADS-box genes
+T2  - J Exp Bot
+TI  - Flower development: the evolutionary history and functions of the AGL6 subfamily MADS-box genes
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/26956504
+VL  - 67
+ID  - 214
+ER  - 
+
+
+TY  - JOUR
+AB  - Starch synthesis makes a dramatic contribution to the yield and nutritional value of cereal crops. Although several starch synthesis enzymes and related regulators have been reported, the underlying regulatory mechanisms of starch synthesis remain largely unknown. OsMADS14 is a FRUITFULL (FUL)-like MADS-box gene in rice (Oryza sativa). Here we show that two null mutations of OsMADS14 result in a shrunken and chalky grain phenotype. It is caused by obviously defective compound starch granules and a significantly reduced content of both total starch and amylose in the endosperm. Transcriptomic profiling analyses revealed that the loss-of-function of OsMADS14 leads to significantly downregulated expression of many core starch synthesis genes, including OsAGPL2 and Waxy. Both in vitro and in vivo assays demonstrate that the OsMADS14 protein directly binds to stretches of DNA with a CArG-box consensus in the putative regulatory regions of OsAGPL2 and Waxy. Protein-protein interaction experiments also suggest that OsMADS14 interacts with nuclear factor NF-YB1 to promote the transcription of OsAGPL2 and Waxy. Our study thus demonstrates that OsMADS14 plays an essential role in the synthesis of storage starch and provides novel insights into the underlying molecular mechanism that may be used to improve rice cultivars by molecular breeding.
+AD  - Key Laboratory of Plant Molecular Physiology, Institute of Botany, Chinese Academy of Sciences, Beijing, 100093, China.
+University of Chinese Academy of Sciences, Beijing, 100049, China.
+Matthias Schleiden Institute/Genetics, Friedrich Schiller University Jena, Jena, D-07743, Germany.
+AN  - 35067957
+AU  - Feng, T.
+AU  - Wang, L.
+AU  - Li, L.
+AU  - Liu, Y.
+AU  - Chong, K.
+AU  - Theissen, G.
+AU  - Meng, Z.
+DA  - Apr
+DB  - Medline
+DO  - 10.1111/nph.17990
+DP  - NLM
+ET  - 20220212
+IS  - 1
+KW  - *Endosperm/metabolism
+*Oryza/metabolism
+Plant Proteins/metabolism
+Starch/metabolism
+Waxes/metabolism
+Oryza sativa
+MADS-box gene
+Nf-yb1
+OsMADS14
+endosperm
+protein-protein interaction
+starch synthesis
+L1  - internal-pdf://0305197314/Tingting-2022.pdf
+N1  - Feng, Tingting
+Wang, Lili
+Li, Laiyun
+Liu, Yuan
+Chong, Kang
+Theissen, Gunter
+Meng, Zheng
+eng
+Research Support, Non-U.S. Gov't
+England
+2022/01/25
+New Phytol. 2022 Apr;234(1):77-92. doi: 10.1111/nph.17990. Epub 2022 Feb 12.
+PY  - 2022
+SN  - 1469-8137 (Electronic)
+0028-646X (Linking)
+SP  - 77-92
+ST  - OsMADS14 and NF-YB1 cooperate in the direct activation of OsAGPL2 and Waxy during starch synthesis in rice endosperm
+T2  - New Phytol
+TI  - OsMADS14 and NF-YB1 cooperate in the direct activation of OsAGPL2 and Waxy during starch synthesis in rice endosperm
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/35067957
+VL  - 234
+ID  - 1662
+ER  - 
+
+TY  - JOUR
+AB  - A new MADS-box gene, STMADS16, has been cloned in Solanum tuberosum L. that is expressed in all vegetative tissues of the plant, mainly in the stem, but not in flower organs. STMADS16 expression is established early during vegetative development and is not regulated by light. Sequence similarity besides the spatial and temporal expression patterns allow to define a novel MADS-box subfamily comprising STMADS16 and the gene STMADS11. Expression of the STMADS16 sense cDNA under the control of the 35S cauliflower mosaic virus promoter modifies the inflorescence structure by increasing both internode length and flower proliferation of the inflorescence meristems, and confers vegetative features to the flower. Moreover, STMADS16 ectopic expression overcomes the increase in flowering time and node number produced under short-day photoperiod, while the flowering time is not affected in long-day conditions. These results are discussed in terms of a possible role for STMADS16 in promoting vegetative development.
+AD  - Departamento de Biotecnologia, E.T.S. Ingenieros Agronomos, U.P.M., Madrid, Spain.
+AN  - 10798619
+AU  - Garcia-Maroto, F.
+AU  - Ortega, N.
+AU  - Lozano, R.
+AU  - Carmona, M. J.
+DA  - Feb
+DB  - Medline
+DO  - 10.1023/a:1006397427894
+DP  - NLM
+IS  - 3
+KW  - Amino Acid Sequence
+Blotting, Southern
+Cloning, Molecular
+DNA, Complementary/chemistry/genetics
+DNA, Plant/genetics
+DNA-Binding Proteins/*genetics
+Gene Expression Regulation, Developmental
+Gene Expression Regulation, Plant
+MADS Domain Proteins
+Molecular Sequence Data
+Phylogeny
+Plant Proteins
+Plants, Genetically Modified
+*Plants, Toxic
+RNA, Plant/genetics/metabolism
+Sequence Alignment
+Sequence Analysis, DNA
+Sequence Homology, Amino Acid
+Solanum tuberosum/*genetics
+Tissue Distribution
+Nicotiana/*genetics/growth & development
+Transcription Factors/*genetics
+Transformation, Genetic
+L1  - internal-pdf://0945117274/Garcia-Maroto-2000.pdf
+N1  - Garcia-Maroto, F
+Ortega, N
+Lozano, R
+Carmona, M J
+eng
+Research Support, Non-U.S. Gov't
+Netherlands
+2000/05/08
+Plant Mol Biol. 2000 Feb;42(3):499-513. doi: 10.1023/a:1006397427894.
+PY  - 2000
+SN  - 0167-4412 (Print)
+0167-4412 (Linking)
+SP  - 499-513
+ST  - Characterization of the potato MADS-box gene STMADS16 and expression analysis in tobacco transgenic plants
+T2  - Plant Mol Biol
+TI  - Characterization of the potato MADS-box gene STMADS16 and expression analysis in tobacco transgenic plants
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/10798619
+https://link.springer.com/content/pdf/10.1023/A:1006397427894.pdf
+VL  - 42
+ID  - 1457
+ER  - 
+
+TY  - JOUR
+AB  - SHORT VEGETATIVE PHASE (SVP)-like genes belonging to the StMADS11 subfamily of MADS-box transcription factors have important functions in the control of flowering time and floral organ specification and are thought to have been essential during angiosperm evolution. In this study, we identified the legume StMADS11 subfamily and examined the expression patterns of these SVP-like genes in the crop legume pea, under different photoperiod conditions and in key pea flowering mutants. We found three subclades of SVP-like genes represented in all legumes examined, including pea, common bean, soybean, Lotus japonicus and Medicago truncatula. These three subclades were also represented in other eudicot species. Legume SVPa genes fell within a eudicot SVP subclade that includes Arabidopsis SVP and tomato JOINTLESS (J), SVPb genes were found to be members of the StMADS11 subclade, and SVPc genes fell within the StMADS16/AGL24 subclade with the DORMANCY ASSOCIATED MADS-BOX (DAM) genes. In pea, we found SVP-like genes to be expressed in both leaf and apex tissues under inductive LD and non-inductive SD conditions. SVPc exhibited a clear developmental pattern of induction and downregulation under both conditions in both tissue types and showed misregulation in a mutant for the pea VEGETATIVE2 (VEG2) gene (an FD homolog), suggesting a possible role for SVPc in flowering, downstream of VEG2. The characterisation of legume SVP-like genes and expression analysis of the three pea SVP-like genes performed in this study provide a basis for further investigation of the function of these important transcription factors.
+AU  - Sussmilch, Frances C.
+AU  - Hecht, Valérie
+AU  - Vander Schoor, Jacqueline K.
+AU  - Weller, James L.
+DO  - 10.1016/j.plgene.2017.08.003
+L1  - internal-pdf://1459834400/Sussmilch-2017.pdf
+PY  - 2017
+SE  - 72
+SN  - 23524073
+SP  - 72-79
+ST  - Identification of the SHORT VEGETATIVE PHASE ( SVP )-like MADS-box genes in pea ( Pisum sativum L.)
+T2  - Plant Gene
+TI  - Identification of the SHORT VEGETATIVE PHASE ( SVP )-like MADS-box genes in pea ( Pisum sativum L.)
+VL  - 12
+ID  - 172
+ER  - 
+
+TY  - JOUR
+AB  - Delay of floral transition is a valuable trait in commercially important turfgrass species. It has been reported that short vegetative phase (SVP)-like proteins, potential repressors of the floral inductive pathway, control the transition from vegetative to reproductive phase. A homolog of SVP-like genes was isolated from tall fescue (Festuca arundinacea) by 5′-rapid amplification of cDNA ends (RACE) and 3′-RACE and designated as F. arundinacea VEGETATIVE TO REPRODUCTIVE TRANSITION gene-2 (FaVRT-2). It encodes a putative protein of 226 amino acids with a conserved MADS (M) domain, a Keratin-like (K) domain, and a C-terminal (C) domain. Phylogenetic analysis showed that FaVRT-2 is most closely related to VRT-2 proteins from ryegrass, barley, and wheat and belongs to the StMADS11 subfamily of MADS-box transcription factors. Subcellular localization showed that the FaVRT-2 protein accumulates in the nucleus suggesting a role as trans acting factor. FaVRT-2 transcripts accumulate abundantly in roots and stems and is moderately present in leaves under normal conditions (without non-vernalization treatment). Real-time quantitative reverse transcription-polymerase chain reaction (RT-PCR) showed similar transcriptional patterns of FaVRT-2 under both vernalization and non-vernalization conditions. However, the peak of FaVRT-2 transcripts under vernalization condition occurred 14 days earlier than that found under non-vernalization condition. These results support the hypothesis that FaVRT-2, a putative repressor of floral transition, is regulated by vernalization in tall fescue.
+AU  - Wang, X. L.
+AU  - Liu, X. X.
+AU  - Chen, W.
+AU  - Li, W. C.
+AU  - Wu, J. H.
+AU  - Wang, S. Y.
+AU  - Yang, Y. C.
+AU  - Xi, L. Q.
+DA  - 2012/01/18
+DO  - 10.1080/11263504.2012.657713
+IS  - 2
+L1  - internal-pdf://3616831739/Wang-2012.pdf
+PY  - 2012
+SE  - 419
+SN  - 1126-3504
+1724-5575
+SP  - 419-427
+ST  - Characterization of theFaVRT-2gene encoding a MADS-box transcription factor responsive to vernalization in tall fescue (Festucaarundinacea)
+T2  - Plant Biosystems - An International Journal Dealing with all Aspects of Plant Biology
+TI  - Characterization of theFaVRT-2gene encoding a MADS-box transcription factor responsive to vernalization in tall fescue (Festucaarundinacea)
+UR  - https://www.semanticscholar.org/paper/ca3165ef744dbaea1499e72c187387b336556066
+VL  - 146
+ID  - 1541
+ER  - 
+
+
+TY  - JOUR
+AB  - A new MADS-box gene, STMADS16, has been cloned in Solanum tuberosum L. that is expressed in all vegetative tissues of the plant, mainly in the stem, but not in flower organs. STMADS16 expression is established early during vegetative development and is not regulated by light. Sequence similarity besides the spatial and temporal expression patterns allow to define a novel MADS-box subfamily comprising STMADS16 and the gene STMADS11. Expression of the STMADS16 sense cDNA under the control of the 35S cauliflower mosaic virus promoter modifies the inflorescence structure by increasing both internode length and flower proliferation of the inflorescence meristems, and confers vegetative features to the flower. Moreover, STMADS16 ectopic expression overcomes the increase in flowering time and node number produced under short-day photoperiod, while the flowering time is not affected in long-day conditions. These results are discussed in terms of a possible role for STMADS16 in promoting vegetative development.
+AD  - Departamento de Biotecnologia, E.T.S. Ingenieros Agronomos, U.P.M., Madrid, Spain.
+AN  - 10798619
+AU  - Garcia-Maroto, F.
+AU  - Ortega, N.
+AU  - Lozano, R.
+AU  - Carmona, M. J.
+DA  - Feb
+DB  - Medline
+DO  - 10.1023/a:1006397427894
+DP  - NLM
+IS  - 3
+KW  - Amino Acid Sequence
+Blotting, Southern
+Cloning, Molecular
+DNA, Complementary/chemistry/genetics
+DNA, Plant/genetics
+DNA-Binding Proteins/*genetics
+Gene Expression Regulation, Developmental
+Gene Expression Regulation, Plant
+MADS Domain Proteins
+Molecular Sequence Data
+Phylogeny
+Plant Proteins
+Plants, Genetically Modified
+*Plants, Toxic
+RNA, Plant/genetics/metabolism
+Sequence Alignment
+Sequence Analysis, DNA
+Sequence Homology, Amino Acid
+Solanum tuberosum/*genetics
+Tissue Distribution
+Nicotiana/*genetics/growth & development
+Transcription Factors/*genetics
+Transformation, Genetic
+L1  - internal-pdf://0945117274/Garcia-Maroto-2000.pdf
+N1  - Garcia-Maroto, F
+Ortega, N
+Lozano, R
+Carmona, M J
+eng
+Research Support, Non-U.S. Gov't
+Netherlands
+2000/05/08
+Plant Mol Biol. 2000 Feb;42(3):499-513. doi: 10.1023/a:1006397427894.
+PY  - 2000
+SN  - 0167-4412 (Print)
+0167-4412 (Linking)
+SP  - 499-513
+ST  - Characterization of the potato MADS-box gene STMADS16 and expression analysis in tobacco transgenic plants
+T2  - Plant Mol Biol
+TI  - Characterization of the potato MADS-box gene STMADS16 and expression analysis in tobacco transgenic plants
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/10798619
+https://link.springer.com/content/pdf/10.1023/A:1006397427894.pdf
+VL  - 42
+ID  - 1457
+ER  - 
+
+TY  - JOUR
+AB  - Loquat fruit accumulates lignin in its flesh when undergoing chilling injury during postharvest storage, making it a suitable model for the study of flesh lignification. Transcriptional regulation of lignin biosynthesis is principally controlled by the NAC-MYB transcriptional cascade in model plants. Previous research has demonstrated that EjMYB8 activates lignin biosynthesis through direct interaction with the promoter of Ej4CL1. However, the classic NAC-MYB gene regulation network has not been established. Here, the MADS-box gene EjAGL65 was discovered by screening a cDNA library using the EjMYB8 promoter as bait in yeast. A phylogenetic analysis and structural comparisons revealed that EjAGL65 belongs to the Mdelta subgroup of the MADS-box family, whose members have not been reported as being involved in the regulation of lignin deposition. EjAGL65 transcription was downregulated at 0 degrees C compared to 5 degrees C, indicating a negative correlation with the change of lignin content. A dual-luciferase assay indicated that EjAGL65 is capable of inhibiting the promoter activity of EjMYB8 in vivo. These results showed that the Mdelta MADS-box gene EjAGL65 transcriptionally regulates EjMYB8 during postharvest chilling induced flesh lignification, which differs from the classical regulation model of lignin biosynthesis that has been illustrated for developmental lignin accumulation.
+AD  - Zhejiang Provincial Key Laboratory of Biometrology and Inspection & Quarantine, College of Life Sciences, China Jiliang University, Hangzhou, China.
+Zhejiang Provincial Key Laboratory of Horticultural Plant Integrative Biology, Zhejiang University, Zijingang Campus, Hangzhou, China.
+The State Agriculture Ministry Laboratory of Horticultural Plant Growth, Development and Quality Improvement, Zhejiang University, Zijingang Campus, Hangzhou, China.
+AN  - 33897744
+AU  - Ge, H.
+AU  - Shi, Y. N.
+AU  - Zhang, M. X.
+AU  - Li, X.
+AU  - Yin, X. R.
+AU  - Chen, K. S.
+C1  - The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+C2  - PMC8058365
+DA  - 2021/04/07
+DB  - PubMed-not-MEDLINE
+DO  - 10.3389/fpls.2021.652959
+DP  - NLM
+ET  - 20210407
+KW  - Mads
+Myb
+Mdelta subgroup
+chilling injury
+lignin biosynthesis
+loquat
+L1  - internal-pdf://2953234493/Hang-2021.pdf
+N1  - Ge, Hang
+Shi, Yan-Na
+Zhang, Meng-Xue
+Li, Xian
+Yin, Xue-Ren
+Chen, Kun-Song
+eng
+Switzerland
+2021/04/27
+Front Plant Sci. 2021 Apr 7;12:652959. doi: 10.3389/fpls.2021.652959. eCollection 2021.
+PY  - 2021
+SN  - 1664-462X (Print)
+1664-462X (Electronic)
+1664-462X (Linking)
+SP  - 652959
+ST  - The MADS-Box Transcription Factor EjAGL65 Controls Loquat Flesh Lignification via Direct Transcriptional Inhibition of EjMYB8
+T2  - Front Plant Sci
+TI  - The MADS-Box Transcription Factor EjAGL65 Controls Loquat Flesh Lignification via Direct Transcriptional Inhibition of EjMYB8
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/33897744
+VL  - 12
+ID  - 1819
+ER  - 
+

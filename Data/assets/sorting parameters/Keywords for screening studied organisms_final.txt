@@ -1,0 +1,224 @@
+Acacia mangium
+Actinidia
+Adonis amurensis
+Aethionema
+Agave
+Akebia
+alfalfa
+algae
+Almond
+Amphicarpaea edgeworthii
+Antirrhinum
+Antirrhinum majus
+apple, Malus domestica
+Apricot
+arabidopsis
+Arabis
+Argan Tree
+Aristolochia fimbriata
+Balanophora fungosa
+Balanophora subcupularis
+bamboo
+banana
+barley
+bean
+Beautyberry
+Betula
+bilberry
+birch
+Bletilla striata
+Blueberry
+Botrytis cinerea
+Brachypodium distachyon
+Brassica juncea
+Brassica napus
+Brassica oleracea
+Bryophytes
+buckwheat
+Camellia
+Canna
+Cannabis
+Carnation
+carrot
+Cassava
+Catharanthus roseus
+Ceropegia sandersonii
+Chayote
+cherry
+Chestnut
+chickpea
+chicory
+Chimonanthus praecox
+Chimonanthus salicifolius
+chrysanthemum
+citrus
+Clematis courtoisii
+Coffea canephora
+coffee
+cotton
+cowpea
+Crocus sativus
+cucumber
+Cunninghamia lanceolata
+Cymbidium
+dandelion
+Davidia involucrata
+Dendrobium nobile
+Diospyros oleifera
+Dryopteris fragrans
+Ecodormant Poplars
+edamame
+eggplant, brinjal
+Elaeis
+Epimedium sagittatum
+Erigeron breviscapus
+Eriobotrya japonica
+Erycina pusilla
+Eucalyptus
+Eustoma
+Ferns
+Ficus carica
+fig
+Flax
+Foxtail Millet
+Fragaria
+Ganoderma lucidum
+Gentiana
+Gentum
+Gerbera
+Ginkgo biloba
+Gnetum
+grapes
+Groundnut
+hazel
+Hemerocallis fulva
+Hibiscus syriacus
+Humulus lupulus
+hypericum
+Ipomoea
+iris
+Isatis indigotica
+Japanese gentian
+Jasmine
+Jatropha curcas
+Juglans
+jujube
+kiwifruit
+Korthalsia laciniosa
+Leafy spurge
+lentil
+lettuce
+Liriodendron
+Litchi
+Lolium perenne
+Longan
+Lonicera japonica
+Loquat
+lotus
+Lumnitzera littorea
+Lycophytes
+Lycoris radiata
+Magnaporthe oryzae
+Magnolia wufengensis
+maize
+Malus hupehensis
+Malus Lineage
+Mango
+Marigold
+Medicago
+melon
+microalga
+millet
+Miscanthus
+Morus notabilis
+Nelumbo nucifera
+Nepenthes
+Nigella damascena
+Nuphar pumila
+oil palm
+olive
+orchid, orchids
+pak-choi
+papaya
+Passiflora
+Passiflora organensis
+Paulownia kawakamii
+pea
+peach, prunus persica
+peanut
+pear
+pepper
+Perilla frutescens
+petunia
+Phalaenopsis
+Pharus latifolius
+Physalis
+Physalis floridana
+Physcomitrella
+Picea abies
+pigeonpea
+pine
+pineapple
+Polypogon fugax
+poncirus
+poppy
+populus, aspen, poplar
+potato
+Prunus campanulata
+Prunus mume
+Prunus salicina
+pumpkin
+Punica granatum
+Pyrus, pear
+Radish
+Rafflesia cantleyi
+rapeseed, Brassica rapa
+redwood
+Rhododendron
+rice
+rose
+rubber
+ryegrass
+Safflower
+saffron
+Sagittaria sagittifolia
+Salix suchowensis
+Salvia miltiorrhiza
+Saururus
+Sclerotinia sclerotiorum
+Selaginella
+Senecio cruentus
+Senecio vulgaris
+sesame
+Setaria
+sheepgrass
+Silene latifolia
+Sinapis alba
+soybean, Glycine max
+spinach
+spruce
+strawberry
+Streptochaeta angustifolia
+sugarcane
+Sweet Potato
+switchgrass
+tall fescue
+Taraxacum
+Thalictrum
+Theobroma cacao
+tobacco, Nicotiana
+tomato
+tree peony
+Triticum petropavlovskyi
+Tropaeolum
+Tulips
+Viola philippica
+walnut
+Water Lilies
+watermelon
+wheat
+Wheel Wingnut
+white campion
+Zanthoxylum armatum
+Zanthoxylum bungeanum
+Zizania latifolia

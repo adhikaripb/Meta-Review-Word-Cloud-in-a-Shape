@@ -1,0 +1,12 @@
+MADS_patterns used for screening cross-species gene IDs
+
+[r'\b.*MDP.*', r'\bODDSOC2\b', r'\bTM6\b', r'\bSlMBP3\b', r'\b.FBP.*\b', r'\b\w+AGL.\w*\b', r'\b\w+FUL\w*\b', r'\b\w+FLC\w*\b', r'\b\w+AG.*\b', r'\b\w+AP3\w*\b', r'\b\w+AP1\w*\b', r'\b\w+SEP\w*\b', r'\b\w+SVP\w*\b', r'\b\w+SOC1\w*\b', r'\b\w+TT16\w*\b', r'\b\w+ANR.\w*\b', r'\b.*MADS.*\b', r'\b.RIN.*\b', r'\b.*DAM.*\b', r'\bMdJa.*\b', r'\bDOLL1\b', r'\bTAGL1\b', r'\bNycAG.*\b', r'\bzag.*\b', r'\bPfAG.*\b', r'\bZMM28\b', r'\bVRN1\b']
+
+
+MADS_exclude_words (used along with above defined patterns to exclude false positives)
+
+['PRINCIPAL', 'OE_FUL', 'RNAi_AGL', 'OXEgMADS16', 'FLAG', 'MADSs', 'GAGA', 'FRUITFUL', 'FRUITFULL', 'paleoAP1', 'euAP1', 'gAGL6', 'CALLOSE', 'PHASE', 'STMADS', 'RIN', 'RINs', 'DAM', 'DAMs', 'MADS-mediated', 'MADS-Domain', 'MADS-proteins', 'MADSbox', 'MADSBox', 'MADS-box',
+                          'MADS-Box',  'MADS-domain', 'MADS', 'MADS-box-complexes', 'MADS-complexes', 'MADS-box-SHORT', 'MADS-boxes',
+                          'MIKCC-MADS-box', 'MIKCCMADS', 'MIKC-MADS', 'MADS-BOX',
+                          
+
