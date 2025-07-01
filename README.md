@@ -76,7 +76,7 @@ All outputs are saved to the `Data/outputs/` directory under the script’s fold
 - The title prefix include constraints and max font size for reference.
 
 ## Essential Notes
-- For a reliable frequency-to-word-size generation, font-size needs to be customized. For that reason, the script out the font-size at each run. The user is expected to check and calibrate the font size prented by for each word-cloudof a term and its respective frequency in the csv file
+- For a reliable frequency-to-word-size generation, font-size needs to be customized. For that reason, the script prints the font-sizes of the terms/genes at each run. The user is expected to check and calibrate the font size of each term/tene to its respective frequency saved (by the script) in the csv file
 - Please cite the following publication when referred
   - Adhikari PB, Kasahara RD. An Overview on MADS Box Members in Plants: A Meta-Review. International Journal of Molecular Sciences. 2024; 25(15):8233. https://doi.org/10.3390/ijms25158233
 
